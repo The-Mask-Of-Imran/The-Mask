@@ -1,5 +1,11 @@
 {
-    "api_key": "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",
-    "provider": "OpenRouter",
-    "model": "anthropic/claude-sonnet-4.6"
+    "apis": [
+        {
+            "provider": "OpenRouter",
+            "model": "openrouter/free",
+            "key": "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",
+            "masked": "sk-or-...1ada6",
+            "status": "🟢 Active"
+        }
+    ]
 }
