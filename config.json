@@ -6,6 +6,13 @@
             "key": "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",
             "masked": "sk-or-...1ada6",
             "status": "🟢 Active"
+        },
+        {
+            "provider": "OpenRouter",
+            "model": "nvidia/nemotron-3-nano-30b-a3b:free",
+            "key": "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",
+            "masked": "sk-or-...32fe9",
+            "status": "🟢 Active"
         }
     ]
 }
