@@ -1,0 +1,12 @@
+customtkinter>=5.2.2
+openai>=1.40.0
+google-genai
+requests
+pillow
+#sqlite3  # built-in
+customtkinter>=5.2.2
+openai>=1.40.0
+google-genai
+requests
+pillow
+chromadb>=0.5.0

@@ -1,0 +1,30 @@
+# Virtual Environment (সবচেয়ে বড় সমস্যা)
+.venv/
+venv/
+
+# Large files and models
+models/
+*.gguf
+*.bin
+*.dll
+*.pyd
+*.whl
+*.tar.gz
+*.zip
+
+# Database and config
+config.json
+TheMask.db
+api_history.json
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log_
